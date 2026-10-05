@@ -1,0 +1,124 @@
+{
+  "tracks": [
+    {
+      "index": 1,
+      "title": "光になれ",
+      "path": "music/track-01.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-01.mp3",
+      "bytes": 2240795,
+      "sha256": "b26d4c59218d108680fa60c4977da52e750f79d6c2199b81c4bf37ac6a44bd69"
+    },
+    {
+      "index": 2,
+      "title": "小さな部屋が宇宙になる (Remastered x2)",
+      "path": "music/track-02.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-02.mp3",
+      "bytes": 4206272,
+      "sha256": "6e5c7a45c4b0240fb8fd9694face618141dfaa9a767a51a01f124617beb378bf"
+    },
+    {
+      "index": 3,
+      "title": "Creepin' In The Cut (Lo-Fi Mix)",
+      "path": "music/track-03.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-03.mp3",
+      "bytes": 925286,
+      "sha256": "03f76cf517796727af1183db20fed6ab082ed7aa11ea27ccf59451d5147bb0ab"
+    },
+    {
+      "index": 4,
+      "title": "Lu from the Sea",
+      "path": "music/track-04.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-04.mp3",
+      "bytes": 4318292,
+      "sha256": "c8d04beb124e4e0980b596d42b47ef583d54575f3bb758a44c6b78d11a19f5a4"
+    },
+    {
+      "index": 5,
+      "title": "Map of the Unwaking Line — Itsuki Hoshinobe Theme 1",
+      "path": "music/track-05.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-05.mp3",
+      "bytes": 5221112,
+      "sha256": "1ec40440c72d40b8c3dae0586a179ea77354b241c056d2260ec27fa1fa0f3875"
+    },
+    {
+      "index": 6,
+      "title": "Netz der Erinnerung (1.25x)",
+      "path": "music/track-06.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-06.mp3",
+      "bytes": 3374291,
+      "sha256": "f82eac4959c1ce20da95d1dd69f4a81eb6d64d6204228b9a52eae7dcd8e650ab"
+    },
+    {
+      "index": 7,
+      "title": "Paper Skin",
+      "path": "music/track-07.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-07.mp3",
+      "bytes": 2762977,
+      "sha256": "edb44dfeed4de3e00fb31a8e7aaf940e532903b1f3f33c8a01fb081b0f690822"
+    },
+    {
+      "index": 8,
+      "title": "Second Shadow Print — Yuto Amamine Theme 001",
+      "path": "music/track-08.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-08.mp3",
+      "bytes": 3435034,
+      "sha256": "ad066fbcbe092c8803938478321cb44c74c8a6942f5a6a28143f3275d33b373a"
+    },
+    {
+      "index": 9,
+      "title": "Shadowed Level 9",
+      "path": "music/track-09.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-09.mp3",
+      "bytes": 4174552,
+      "sha256": "8fb9d93d45d4968bccfb1fcbde4143ef850b8d70f878a0fa13b33859dd14d0f4"
+    },
+    {
+      "index": 10,
+      "title": "The Story That Never Grows Old",
+      "path": "music/track-10.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-10.mp3",
+      "bytes": 2151445,
+      "sha256": "aa5fba4d0ccfb0c96f99f9ab20885e86842c9e7b2f619399ca6db7f892d633fc"
+    },
+    {
+      "index": 11,
+      "title": "LANGEWEILE 4_19",
+      "path": "music/track-11.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-11.mp3",
+      "bytes": 3257723,
+      "sha256": "7f31a2691ec69a700f66f9bf19ea8453a2d64a82c08af1e33e4e5bc0365c4e35"
+    },
+    {
+      "index": 12,
+      "title": "U MODE",
+      "path": "music/track-12.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-12.mp3",
+      "bytes": 2181178,
+      "sha256": "d6f1401f36a27060774d695443283300b3faf3771fe8673a27658928ce7d5eaa"
+    },
+    {
+      "index": 13,
+      "title": "Directive Denied (2)",
+      "path": "music/track-13.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-13.mp3",
+      "bytes": 3703440,
+      "sha256": "f7ad24e6c80ff82ef6b3b5a3fa0ee556332def75f4793b7253c3924c406ce2ab"
+    },
+    {
+      "index": 14,
+      "title": "HAPTIC (Spür mich)",
+      "path": "music/track-14.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-14.mp3",
+      "bytes": 2781275,
+      "sha256": "42a332ebd805e1231a3a8bfe366c5be55f36e00043c11514abda1e23811635d6"
+    },
+    {
+      "index": 15,
+      "title": "Neon Glitch (C 001 Kai Shiden Theme)006 (3)",
+      "path": "music/track-15.mp3",
+      "url": "https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/music/track-15.mp3",
+      "bytes": 4441711,
+      "sha256": "7b0a8d4e48c74639b86c634b6f3e925527620156d98e21ed9cb5f655555bfc88"
+    }
+  ]
+}
