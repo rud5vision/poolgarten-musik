@@ -4,11 +4,19 @@
 
 Die direkten MP3-Links sind ohne GitHub-Anmeldung abrufbar. Die Abspielbarkeit hängt vom verwendeten Player ab.
 
+## Durchgehende Playlist für den Videoplayer
+
+[Alle 15 Songs in einer MP4 abspielen](https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/video/poolgarten-playlist.mp4)
+
+KOTOCHANOVA · 36:16,940 Minuten · 76,99 MB · vollständige Songs 01–15 in Reihenfolge, ohne zusätzliche Pausen oder Sprachansagen. Ein gemeinsames Zimmer-/Galaxie-Cover mit dem jeweiligen Songtitel. MP4: 1280 × 720, H.264 / yuv420p, AAC-LC Stereo (48 kHz, 192 kbit/s), 5 Bilder/s für die Standbilder, Faststart und 15 Kapitel.
+
+Die Datei wurde vollständig fehlerfrei decodiert. Die Audiodauer und alle Songübergänge sind geprüft. Track 01 lief laut Benutzertest im VRChat-Weltplayer; der Test dieser durchgehenden Playlist steht noch aus.
+
 ## MP4-Test: Track 01 – 光になれ
 
 [Direkter MP4-Testlink für den Videoplayer](https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/video/track-01.mp4)
 
-KOTOCHANOVA · vollständiger Song (1:37,600) mit dem eingebetteten Originalcover und einem ruhigen Titelbildschirm, ohne sichtbare Plattformwerbung. MP4: 1280 × 720, 25 Bilder/s, H.264 Constrained Baseline / yuv420p, AAC-LC Stereo (48 kHz, 192 kbit/s), weboptimiert mit Faststart. Datei und vollständige Decodierung sind geprüft; die Wiedergabe in VRChat muss im Headset getestet werden.
+KOTOCHANOVA · vollständiger Song (1:37,600) mit dem eingebetteten Originalcover und einem ruhigen Titelbildschirm, ohne sichtbare Plattformwerbung. MP4: 1280 × 720, 25 Bilder/s, H.264 Constrained Baseline / yuv420p, AAC-LC Stereo (48 kHz, 192 kbit/s), weboptimiert mit Faststart. Datei und vollständige Decodierung sind geprüft; Track 01 wurde vom Benutzer erfolgreich im VRChat-Weltplayer abgespielt.
 
 GitHub gehört nicht zu VRChats Standard-Domainfreigabe. Für diesen Link müssen Zuschauer **Allow Untrusted URLs** aktivieren. In **Public** und **Group Public** muss der Welt-Ersteller zusätzlich **raw.githubusercontent.com** unter **Video Player Allowed Domains** eintragen. Die MP4 hebt diese Domain-Schranke nicht auf. [VRChat-Dokumentation](https://creators.vrchat.com/worlds/udon/video-players/www-whitelist/)
 
