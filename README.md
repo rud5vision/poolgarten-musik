@@ -2,7 +2,15 @@
 
 15 Musikstücke für den Musikplayer in Cozy Cave – Poolgarten.
 
-Die direkten MP3-Links funktionieren ohne GitHub-Anmeldung. In VRChat muss für diese Quelle „Allow Untrusted URLs“ eingeschaltet sein.
+Die direkten MP3-Links sind ohne GitHub-Anmeldung abrufbar. Die Abspielbarkeit hängt vom verwendeten Player ab.
+
+## MP4-Test: Track 01 – 光になれ
+
+[Direkter MP4-Testlink für den Videoplayer](https://raw.githubusercontent.com/rud5vision/poolgarten-musik/main/video/track-01.mp4)
+
+KOTOCHANOVA · vollständiger Song (1:37,600) mit dem eingebetteten Originalcover und einem ruhigen Titelbildschirm, ohne sichtbare Plattformwerbung. MP4: 1280 × 720, 25 Bilder/s, H.264 Constrained Baseline / yuv420p, AAC-LC Stereo (48 kHz, 192 kbit/s), weboptimiert mit Faststart. Datei und vollständige Decodierung sind geprüft; die Wiedergabe in VRChat muss im Headset getestet werden.
+
+GitHub gehört nicht zu VRChats Standard-Domainfreigabe. Für diesen Link müssen Zuschauer **Allow Untrusted URLs** aktivieren. In **Public** und **Group Public** muss der Welt-Ersteller zusätzlich **raw.githubusercontent.com** unter **Video Player Allowed Domains** eintragen. Die MP4 hebt diese Domain-Schranke nicht auf. [VRChat-Dokumentation](https://creators.vrchat.com/worlds/udon/video-players/www-whitelist/)
 
 | Nr. | Titel | MP3 |
 | --- | --- | --- |
